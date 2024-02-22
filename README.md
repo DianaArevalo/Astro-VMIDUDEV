@@ -1,2 +1,2 @@
 # Astro-VMIDUDEV
-Taller 
+Taller de practica
